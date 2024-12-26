@@ -32,7 +32,7 @@ This project implements and analyzes d-ary heaps, a generalization of binary hea
 2. **Compilation**:
    Compile the code using the following command:
    ```
-   g++ -std=c++11 main.cpp -o d_ary_heap
+   g++ -std=c++11 d_ary_heap.cpp -o d_ary_heap
    ```
 
 3. **Execution**:
